@@ -1,4 +1,4 @@
-# UPDATE THIS!!!!! [title here]
+# NCT ago2 codes 
 
 Collection of codes I've deveoped and used in lab for imaging processing and analysis.
 Type: Mathematica, ImageJ/FIJI (Java) 
