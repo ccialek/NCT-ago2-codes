@@ -1,7 +1,7 @@
-# NCT ago2 codes 
+# NCT Ago2 codes 
 
-Collection of codes I've deveoped and used in lab for imaging processing and analysis.
-Type: Mathematica, ImageJ/FIJI (Java) 
+### Collection of codes I've deveoped and used in lab for imaging processing and analysis.
+### Type: Mathematica, ImageJ/FIJI (Java) 
 
 The Stasevich lab uses ImageJ/FIJI freeware to run our home-built microscopes. 
 Additionally, either TrackMate (plugin for ImageJ) or Mathematica homemade particle tracking codes 
